@@ -4,7 +4,7 @@ public class SHAHAD {
     public static void main(String[]args) {
         Scanner input=new Scanner(System.in);
         int[] a=new int[5];
-        System.out.print("Enter the orders of number");
+        System.out.print("Enter the orders of number777");
         for(int y=0;y<a.length;y++){
             a[y]=input.nextInt();}
         for (int j=1;j<a.length;j++){
