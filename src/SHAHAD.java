@@ -7,7 +7,7 @@ public class SHAHAD {
         System.out.print("Enter the orders of number777");
         for(int y=0;y<a.length;y++){
             a[y]=input.nextInt();}
-        for (int j=1;j<a.length;j++){
+        for (int j=2;j<a.length;j++){
             int key=a[j];
             int i=j-1;
             while (i>=0&&a[i]>key){
